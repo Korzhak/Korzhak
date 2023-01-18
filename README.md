@@ -27,12 +27,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :bar_chart: My stats :
-
-<div align="center">
-
-  ![korzhak stats](https://github-readme-stats.vercel.app/api?username=korzhak&show_icons=true&theme=moltack&hide_border=true)
-  
-</div>
